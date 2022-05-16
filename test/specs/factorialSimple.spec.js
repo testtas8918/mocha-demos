@@ -43,3 +43,5 @@ describe('factorialSimple', function() {
         expect(factorial.factorialSimple(1)).to.be.equal(1);
     });
 });
+
+
